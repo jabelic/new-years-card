@@ -5,14 +5,11 @@
 
 
 - 住所面
-
-  -  使用技術
     - LaTeX
       - [jletteraddress.cls](https://github.com/ueokande/jletteraddress)からjletteraddress.clsのみダウンロードする.
       - 連名を使用したければ, [年賀状100人分を3時間で作成した話](http://okini-houkoku.hatenablog.jp/entry/2015/12/24/173358)に従ってjletteraddress.clsを一部改変すれば良い
       - [年賀状100人分を3時間で作成した話](http://okini-houkoku.hatenablog.jp/entry/2015/12/24/173358)に従って宛名, 住所を記入, コンパイルすれば良い.
       - 印刷時にサイズをハガキにすれば良いので, 特に用紙の設定等はしなかった.
-      
     - 参考
       - [年賀状100人分を3時間で作成した話](http://okini-houkoku.hatenablog.jp/entry/2015/12/24/173358)
       - [jletteraddress.cls](https://github.com/ueokande/jletteraddress)
