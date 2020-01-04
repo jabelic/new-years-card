@@ -25,14 +25,14 @@
 
 
 
- - 裏面
-       - 使用技術
-             - HTML/CSS
-                  - CSSでカードの色, 富士山と朝日と雲と子年スタンプと謹賀新年を生成.
-                  - 雲は[ CSSでクラウド的なサムシング](https://ohhiru.info/csscloud/)で生成. サイズの調整をしなければならない.
-            - 参考
-                    - [CSSで年賀状を作ろう！](https://qiita.com/takashimelon/items/77af922bd51a04b5dfd3)
-                  - [ CSSでクラウド的なサムシング](https://ohhiru.info/csscloud/)
+- 裏面
+  - 使用技術
+    - HTML/CSS
+      - CSSでカードの色, 富士山と朝日と雲と子年スタンプと謹賀新年を生成.
+      - 雲は[ CSSでクラウド的なサムシング](https://ohhiru.info/csscloud/)で生成. サイズの調整をしなければならない.
+    - 参考
+       - [CSSで年賀状を作ろう！](https://qiita.com/takashimelon/items/77af922bd51a04b5dfd3)
+       - [ CSSでクラウド的なサムシング](https://ohhiru.info/csscloud/)
 
 
 
